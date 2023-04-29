@@ -1,0 +1,3 @@
+[submodule "kfilemetadata"]
+	path = upstream
+	url = https://invent.kde.org/frameworks/kfilemetadata.git
