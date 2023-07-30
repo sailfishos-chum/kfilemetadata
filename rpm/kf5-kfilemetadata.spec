@@ -1,4 +1,4 @@
-%global kf5_version 5.107.0
+%global kf5_version 5.108.0
 
 %global         ffmpeg 1
 #global         catdoc 1
@@ -8,7 +8,7 @@
 
 Name: opt-kf5-kfilemetadata
 Summary:        A Tier 2 KDE Framework for extracting file metadata
-Version: 5.107.0
+Version: 5.108.0
 Release:        1%{?dist}
 
 # # KDE e.V. may determine that future LGPL versions are accepted
